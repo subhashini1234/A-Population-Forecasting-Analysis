@@ -5,4 +5,6 @@ Dashboard Public Link - https://public.tableau.com/views/APopulationForecastingA
 
 Story Public Link - https://public.tableau.com/views/APopulationForecastingAnalysisStory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Video Demonstration Link - https://drive.google.com/file/d/1B9lj09AfNvRbALMCti4XEbWLbgl3A8Fk/view?usp=sharing
+Video Demonstration Link - https://drive.google.com/file/d/1XcubHtlzRSU9Sfds8MK7wr0rnfgv_njc/view?usp=sharing
+
+Hosting Web Application - http://team-x-pixel.cf
